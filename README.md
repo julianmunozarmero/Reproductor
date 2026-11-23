@@ -23,7 +23,9 @@ interfaz y desarrollo.
 
 ## Descargar
 
-**[Descarga la última versión](../../releases/latest)**: archivo `Reproductor-Setup-X.Y.Z.exe`.
+**[⬇ Descargar el Reproductor](https://github.com/julianmunozarmero/Reproductor/releases/latest/download/Reproductor-Setup.exe)**: descarga directa del instalador de la última versión.
+
+También puedes ver [todas las versiones y sus novedades](../../releases).
 
 Requisitos: Windows 10 (versión 1809 o posterior) u 11, de 64 bits.
 
