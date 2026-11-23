@@ -39,6 +39,19 @@ El programa busca una versión nueva una vez al día. Cuando hay una, muestra
 
 También puedes buscarla a mano en **Ajustes › Actualizaciones**.
 
+## Apoya el proyecto
+
+El Reproductor es gratis y lo seguirá siendo. Si te resulta útil y quieres
+ayudar a que siga mejorando, puedes apoyarlo como prefieras. Es totalmente
+opcional. ♥
+
+- **[Invítame un café en Ko-fi](https://ko-fi.com/julianarmero)**: PayPal o tarjeta, desde cualquier país.
+- **Bre-B (Colombia):** llave **`@JMY876`** (Nu), desde cualquier banco o Nequi.
+
+Quien apoya recibe un mensaje de agradecimiento con un código. Al escribirlo
+en **Ajustes › Apoya el proyecto** se desbloquean la insignia «Apoyas el
+Reproductor» y colores exclusivos.
+
 ## Licencias de terceros
 
 Usa VLC (LGPL/GPL), Qt (LGPL) y otros componentes de código abierto. Sus
