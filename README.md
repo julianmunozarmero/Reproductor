@@ -12,6 +12,15 @@ interfaz y desarrollo.
 - Subtítulos y pistas de audio, mini reproductor, y continuar donde lo dejaste.
 - Se actualiza solo desde este repositorio.
 
+## Capturas
+
+![Reproduciendo, con el fondo que se adapta a la portada](capturas/1-reproduciendo.png)
+
+| | |
+|---|---|
+| ![Cola de reproducción](capturas/2-cola.png) | ![Biblioteca de música](capturas/3-biblioteca.png) |
+| ![Modo oscuro](capturas/4-reproduciendo-oscuro.png) | ![Ajustes y apoyo al proyecto](capturas/5-ajustes-apoyo.png) |
+
 ## Descargar
 
 **[Descarga la última versión](../../releases/latest)**: archivo `Reproductor-Setup-X.Y.Z.exe`.
@@ -33,9 +42,11 @@ Get-FileHash .\Reproductor-Setup-X.Y.Z.exe
 El programa busca una versión nueva una vez al día. Cuando hay una, muestra
 «Versión X disponible · Actualizar»:
 
-1. Descarga el instalador.
-2. Comprueba su huella SHA-256.
-3. Se instala y se vuelve a abrir solo.
+1. La pestaña **Ajustes** muestra un punto rojo y arriba aparece la tarjeta
+   «Actualización disponible» con las novedades.
+2. Pulsas **Actualizar ahora**: descarga el instalador y comprueba su huella SHA-256.
+3. Se instala y el Reproductor se vuelve a abrir solo, con el aviso
+   «¡Actualizado a la versión X!».
 
 También puedes buscarla a mano en **Ajustes › Actualizaciones**.
 
